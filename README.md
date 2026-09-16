@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm João Pedro! 👋
 
-<!--
-**jpmalvar/jpmalvar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronic and Computer Engineering student at the Federal University of Rio de Janeiro (UFRJ).
 
-Here are some ideas to get you started:
+💻 Interested in programming, artificial intelligence, electronics, and computer engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+- Python
+- C / C++
+- Git & GitHub
+- VS Code
+- WSL
+- Digital Electronics
+
+## 🎯 Currently Learning
+
+- Artificial Intelligence
+- Machine Learning
+- Data Analysis
+- Computer Engineering
+
+## 📫 Connect with me
